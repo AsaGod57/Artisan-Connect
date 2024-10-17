@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/AsaGod57/Artisan-Connect/issues"
   },
-  "homepage": "https://github.com/AsaGod57/Artisan-Connect#readme"
+  "homepage": "https://github.com/AsaGod57/Artisan-Connect#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
